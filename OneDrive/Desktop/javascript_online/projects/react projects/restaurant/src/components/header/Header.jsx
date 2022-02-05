@@ -3,7 +3,8 @@ import React from 'react';
 const Header = (props)=> {
 	return (
 		<div>
-			header
+			header 
+			updating
 		</div>
 	);
 }
